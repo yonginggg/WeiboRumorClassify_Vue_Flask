@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1330295 */
+  src: url('//at.alicdn.com/t/font_1330295_t4p1ey317p.eot');
+  src: url('//at.alicdn.com/t/font_1330295_t4p1ey317p.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1330295_t4p1ey317p.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1330295_t4p1ey317p.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1330295_t4p1ey317p.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1330295_t4p1ey317p.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.percy-icon-fangdajing:before {
+  content: "\e63d";
+}
+
+.percy-icon-guidangxiangmu:before {
+  content: "\e660";
+}
+
+.percy-icon-Exit:before {
+  content: "\e6bd";
+}
+
+.percy-icon-fanhui:before {
+  content: "\e641";
+}
+
+.percy-icon-logout:before {
+  content: "\e651";
+}
+
+.percy-icon-Positioning:before {
+  content: "\e736";
+}
+
+.percy-icon-cross-fill:before {
+  content: "\e619";
+}
